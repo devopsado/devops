@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "This is FileA" - Version3-pullrequest
+=======
+"This is FileA" - Version3-AzureBoards
+>>>>>>> 6136114b2f884283b4d0616f087873821592110c
